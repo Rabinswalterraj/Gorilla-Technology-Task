@@ -1,4 +1,3 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
@@ -14,23 +13,17 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [https://gorilla-technology-task.vercel.app/](https://gorilla-technology-task.vercel.app/) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+👨‍💻 About the Developer
+Hi, I'm Rabins Walterraj, a passionate Frontend Lead specializing in Next.js, React, and modern web technologies. I have extensive experience in crafting high-performance, scalable, and aesthetically pleasing user interfaces.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+💼 Portfolio: [rabinswalterraj.dev](https://rabins-walterraj-dev.vercel.app/)
 
-## Learn More
+📧 Contact: rabinswalterraj@gmail.com
 
-To learn more about Next.js, take a look at the following resources:
+Feel free to explore my work and reach out for collaboration opportunities! 🚀
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
