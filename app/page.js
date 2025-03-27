@@ -30,8 +30,6 @@ export default async function Home() {
     .filter(([_, taskList]) => taskList.every(Boolean))
     .map(([userId]) => userId);
 
-  console.log("💀 ~ Home ~ qualifiedUserIds:", completedUserId)
-
   //TODO:- use this array to get user infomation promise based
   const userDetails = await Promise.all(
     completedUserId.map(id =>

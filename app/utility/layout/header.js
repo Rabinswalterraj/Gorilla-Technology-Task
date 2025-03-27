@@ -1,11 +1,7 @@
-'use client';
 
-import { useState } from 'react';
 import Link from 'next/link';
-import Image from 'next/image';
 
 export default function Header() {
-  const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   return (
     <header className="pb-6 bg-white lg:pb-0">
